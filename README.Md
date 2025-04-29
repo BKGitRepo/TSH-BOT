@@ -1,7 +1,7 @@
 # 🤖 TSH-BOT – Municipal Assistant for the City of Tshwane
 
 **TSH-BOT** is an AI-powered chatbot built with **Microsoft Copilot Studio** to assist residents of the City of Tshwane in accessing municipal services quickly and efficiently. It provides a conversational interface for reporting issues, finding information, tracking complaints, and staying up to date with community events.
-
+![Alt text]()
 ---
 
 ## 🔧 Features
