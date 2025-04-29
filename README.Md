@@ -25,7 +25,7 @@ To preview or test the chatbot locally:
   Open index.html in your browser.
   The chatbot iframe is embedded using a public link from Microsoft Copilot Studio.
 
-##🙌 Acknowledgements
+## 🙌 Acknowledgements
 Built for AI Agents Hackathon 2025 to empower smart, citizen-first governance in local municipalities like the City of Tshwane.
 
 ## 📜 License
